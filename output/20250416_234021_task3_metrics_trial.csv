@@ -1,0 +1,2 @@
+sid,trialid,n_fix_trial,sum_fix_dur_trial,dwell_time_trial,mean_fix_dur_trial,n_sacc_trial,sum_sacc_dur_trial,mean_sacc_dur_trial,mean_sacc_ampl_trial,ratio_progress_regress_trial,n_between_line_regress_trial,n_within_line_regress_trial,n_regress_trial,n_progress_trial,n_transit_trial
+1,3,6,2133.3333333333335,2133.3333333333335,355.5555555555556,7,383.3410000000001,54.76300000000002,11.943208948715478,0.4,0,0,5,2,0

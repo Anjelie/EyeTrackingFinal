@@ -1,0 +1,8 @@
+sid,trialid,aoi_id,dwell_time_aoi,n_fix_aoi,sum_fix_dur_aoi,mean_fix_dur_aoi,skipped_aoi,n_fix_first_visit_aoi,first_fix_dur_aoi,first_fix_land_pos_aoi,dwell_time_first_visit_aoi,sum_fix_dur_first_visit_aoi,sum_fix_dur_after_first_visit_aoi,dwell_time_rereading_aoi,n_revisits_aoi
+1,3,1,0,0,0,0.0,1,0,0,0,0,0,0,0,0
+1,3,2,0,0,0,0.0,1,0,0,0,0,0,0,0,0
+1,3,3,0,0,0,0.0,1,0,0,0,0,0,0,0,0
+1,3,4,0,0,0,0.0,1,0,0,0,0,0,0,0,0
+1,3,5,0,0,0,0.0,1,0,0,0,0,0,0,0,0
+1,3,6,0,0,0,0.0,1,0,0,0,0,0,0,0,0
+1,3,7,0,0,0,0.0,1,0,0,0,0,0,0,0,0
